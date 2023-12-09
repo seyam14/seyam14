@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/d2vFZyN/github-banner.png" alt=" image" width="1000" height="300">
+<img src="https://raw.githubusercontent.com/seyam14/seyam14/main/Banner.png" alt=" image" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Seyam</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
