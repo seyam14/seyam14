@@ -18,7 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/muhammad-seyam-782964201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-seyam-782964201" height="30" width="40" /></a>
 <a href="https://kaggle.com/seyam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="seyam14" height="30" width="40" /></a>
+<a href="https://fb.com/seyam.014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seyam.014" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
