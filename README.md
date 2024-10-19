@@ -1,16 +1,14 @@
-<img src="https://raw.githubusercontent.com/seyam14/seyam14/main/Banner.png" alt=" image" width="1000" height="500">
+<img src="https://i.ibb.co.com/232DFYP/Front-end-developer.png" alt=" image" width="1000" height="500">
 
 <h1 align="center">Hi 👋, I'm Seyam</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
-<p>Experienced in full-stack development, I bring expertise in crafting efficient server-side logic with Express.js and Node.js, seamlessly integrated with dynamic and interactive user interfaces developed in React.js. Proficient in MongoDB for robust data management. Dedicated to delivering high-quality, feature-rich applications that meet modern web standards. Let's collaborate and bring your ideas to life!</p>
-<img  align="end" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt=" image" width="800" height="250">
-
+<h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
+<p>Experienced in Front-end development, I bring expertise in crafting efficient seamlessly integrated with dynamic and interactive user interfaces developed in React.js. Proficient in MongoDB for robust data management with MERN Stack. Dedicated to delivering high-quality, feature-rich applications that meet modern web standards. Let's collaborate and bring your ideas to life!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyam14&label=Profile%20views&color=0e75b6&style=flat" alt="seyam14" /> </p>
 
 - 🔭 I’m currently working on [FitFormaFusion](https://scintillating-sprite-a0bad8.netlify.app)
 
-- 🌱 I’m currently learning **next.js and Machine learning**
+- 🌱 I’m currently learning **next.js and Figma**
 
 - 💬 Ask me about **React**
 
