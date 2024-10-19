@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **next.js and Figma**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React And Front-end** 
 
 - 📫 How to reach me **mdseyam3215@gmail.com**
 
