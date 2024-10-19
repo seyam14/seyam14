@@ -1,4 +1,4 @@
-<img src="https://ibb.co.com/jDXMMPm" alt=" image" width="1000" height="500">
+<img src="Front-end developer.png" alt=" image" width="1000" height="500">
 
 <h1 align="center">Hi 👋, I'm Seyam</h1>
 <h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
