@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Seyam</h1>
 <h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
-<p>Experienced in Front-end development, I bring expertise in crafting efficient seamlessly integrated with dynamic and interactive user interfaces developed in React.js. Proficient in MongoDB for robust data management with MERN Stack. Dedicated to delivering high-quality, feature-rich applications that meet modern web standards. Let's collaborate and bring your ideas to life!</p>
+<p>Experienced Front-End Developer skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and DaisyUI. I specialize in building seamless, dynamic user interfaces with React.js. With proficiency in the MERN stack, I handle front-end and back-end tasks, ensuring efficient data management using MongoDB. I excel in converting Figma designs into responsive, clean code and am comfortable with Canva for design work. Let's collaborate to bring your ideas to life with modern, feature-rich web applications!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyam14&label=Profile%20views&color=0e75b6&style=flat" alt="seyam14" /> </p>
 
