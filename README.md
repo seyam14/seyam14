@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Seyam</h1>
 <h3 align="center">A passionate Full-stack Developer from Bangladesh</h3>
-<p>Experienced Web Developer skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and DaisyUI. I specialize in building seamless, dynamic user interfaces with React.js. With proficiency in the MERN stack, I handle front-end and back-end tasks, ensuring efficient data management using MongoDB. I excel in converting Figma designs into responsive, clean code and am comfortable with Canva for design work. Let's collaborate to bring your ideas to life with modern, feature-rich web applications!</p>
+<p>Experienced  Developer skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and DaisyUI. I specialize in building seamless, dynamic user interfaces with React.js. With proficiency in the MERN stack, I handle front-end and back-end tasks, ensuring efficient data management using MongoDB. I excel in converting Figma designs into responsive, clean code and am comfortable with Canva for design work. Let's collaborate to bring your ideas to life with modern, feature-rich web applications!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyam14&label=Profile%20views&color=0e75b6&style=flat" alt="seyam14" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript core and Next.js**
 
-- 💬 Ask me about **Web development** 
+- 💬 Ask me about **Full-stack  development** 
 
 - 📫 How to reach me **mdseyam3215@gmail.com**
 
