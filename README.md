@@ -1,4 +1,4 @@
-<img src="Web developer.png" alt=" image" width="1000" height="500">
+<img src="" alt=" image" width="1000" height="500">
 
 <h1 align="center">Hi 👋, I'm Seyam</h1>
 <h3 align="center">A passionate Full-stack Developer from Bangladesh</h3>
